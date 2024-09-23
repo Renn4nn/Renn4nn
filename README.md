@@ -8,4 +8,4 @@
 
 🌱 Buscando aprender e contribuir para projetos inovadores.
 
-📫 Entre em contato: seuemail@exemplo.com | [LinkedIn](link-do-linkedin)
+📫 Entre em contato: renanvieiracont1011@gmail.com | [LinkedIn](https://www.linkedin.com/in/renan-augusto-vieira-duarte/)
