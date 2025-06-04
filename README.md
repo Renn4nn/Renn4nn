@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Renn4nn&color=006bed)
 
-## 👋 E aí, eu sou o Renan!
+# 👋 E aí, eu sou o Renan!
 
 📱 Desenvolvedor **Mobile** focado em **React Native**.  
 🎓 Estudante de Engenharia de Software na Universidade Positivo – 3º semestre.  
