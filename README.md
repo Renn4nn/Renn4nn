@@ -5,7 +5,7 @@
 📱 Desenvolvedor **Mobile** focado em **React Native**.  
 🎓 Estudante de Engenharia de Software na Universidade Positivo – 3º semestre.  
 💼 Atualmente criando um app educacional em parceria com a **CMTU de Londrina**.  
-🌱 Mergulhado em **React Native**, **Node.js**, **Sequelize**, **PostgreSQL** e **JWT**.
+🌱 Me aprofundando em **React Native**, **Node.js**, **Sequelize**, **PostgreSQL** e **JWT**.
 
 <br />
 
