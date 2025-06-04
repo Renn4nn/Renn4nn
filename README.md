@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=Renn4nn&color=006bed)
 
-## 👋 Olá, meu nome é Renan!
+## 👋 E aí, eu sou o Renan!
 
-📱 Desenvolvedor **Mobile** com foco em **React Native**.  
-🎓 Estudando Engenharia de Software na Universidade Positivo Londrina e atualmente estou no 3º semestre. 
-💼 Atualmente desenvolvendo um aplicativo educacional em parceria com a CMTU de Londrina.
-🌱 Me aprofundando em React Native, Node.js, Sequelize, PostgreSQL e autenticação com JWT.
+📱 Desenvolvedor **Mobile** focado em **React Native**.  
+🎓 Estudante de Engenharia de Software na Universidade Positivo – 3º semestre.  
+💼 Atualmente criando um app educacional em parceria com a **CMTU de Londrina**.  
+🌱 Mergulhado em **React Native**, **Node.js**, **Sequelize**, **PostgreSQL** e **JWT**.
 
 <br />
 
