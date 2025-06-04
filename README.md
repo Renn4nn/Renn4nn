@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=Renn4nn&color=006bed)
 
-## Sobre mim
+## 👋 Olá, meu nome é Renan!
 
-- 🤔 Sempre em busca de evoluir como desenvolvedor, explorando novas tecnologias.
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo.
-- 💼 Atualmente desenvolvendo um aplicativo educacional em parceria com a CMTU de Londrina.
-- 🌱 Me aprofundando em React Native, Node.js, Sequelize, PostgreSQL e autenticação com JWT.
+📱 Desenvolvedor **Mobile** com foco em **React Native**.  
+🎓 Estudando Engenharia de Software na Universidade Positivo Londrina e atualmente estou no 3º semestre. 
+💼 Atualmente desenvolvendo um aplicativo educacional em parceria com a CMTU de Londrina.
+🌱 Me aprofundando em React Native, Node.js, Sequelize, PostgreSQL e autenticação com JWT.
 
 <br />
 
@@ -47,6 +47,6 @@
 
 ## 📫 Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Renan%20Augusto%20Vieira%20Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renan-augusto-vieira-duarte/)
+[![LinkedIn](https://img.shields.io/badge/-Renan%20Augusto%20Vieira%20Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renan-augusto-vieira-duarte/)
 [![Gmail Badge](https://img.shields.io/badge/-renanvieiracont1011@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renanvieiracont1011@gmail.com)](mailto:renanvieiracont1011@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Renn4nn?label=follow&style=social)](https://github.com/Renn4nn)
